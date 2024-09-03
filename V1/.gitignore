@@ -1,0 +1,14 @@
+*.workspace 
+!spec/*.workspace
+
+*.bak 
+!spec/*.bak
+
+# Maven
+target/
+dist/
+debug/
+build/
+Project Backups/
+/HW/History/
+/HW/__Previews/
